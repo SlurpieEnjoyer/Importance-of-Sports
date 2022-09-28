@@ -1,4 +1,3 @@
-<h1> Importance Of Sports </h1>
 <p> As many know, sports plays an important role in everyone's day to day lives, especially sisnce it serves as a great way for people to scoialize; however, some do not believe that sports are a necessity in one's life. This website was created with the purpose of enlightening such people and educating them on the significance of sports and why everyone should try to participate in them as often as possible. One benefit an individual can reap from sports is an increase in physical health, which is (and if not, should be) one of the top priorities that a person should really tend to. </p>
 <h2> Physical benefits: </h2>
 <p> 1. Increase in strength </p>
