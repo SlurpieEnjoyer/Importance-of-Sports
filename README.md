@@ -5,8 +5,16 @@
 <p> 2. Increase in flexibility </p>
 <p> 3. Increase in endurance </p>
 Aside from Physical benefits, one can improve their mentality and mindset as well, which is undoubtedly the most important aspect of a person's life that they should prioritize keeping healthy. 
-<h2> Mental Benefits </h2>
-<p> 1. Increase in optimism
-<p> 2. Decrease in Stress
-<p> 3. Increase in overall happiness
+<h2> Mental Benefits: </h2>
+<p> 1. Increase in self-confidence </p>
+<p> 2. Decrease in stress </p>
+<p> 3. Increase in overall happiness </p>
 <h3> Now that you are aware of the true significance of playing sports, here are a few sports that are highly participated in and enjoyed: </h4>
+<p> 1. <strong> basketball </strong> </p>
+<p> 2. <strong> swimming </strong> </p>
+<p> 3. <strong> soccer </strong> </p>
+<p> 4. <strong> soccer </strong> </p>
+<p> 5. <strong> volleyball </strong> </p> <br>
+<img src="https://uploads-ssl.webflow.com/617b224ba2374548fcc039ba/617b224ba237453ce1c0409b_hpfulq-1234-1024x512.jpg" width="300"> 
+<img src="https://www.bls.gov/spotlight/2017/sports-and-exercise/images/cover_image.jpg" width="300">
+<p> 
