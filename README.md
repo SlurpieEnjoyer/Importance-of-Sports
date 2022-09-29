@@ -19,4 +19,3 @@
 <img src="https://uploads-ssl.webflow.com/617b224ba2374548fcc039ba/617b224ba237453ce1c0409b_hpfulq-1234-1024x512.jpg" width="300"> 
 <p> If you are interested in learning more about the physical benefits of sports, click <a target="_blank" href="http://insportscenters.com/15-health-benefits-of-sports/">here</a>!!! </p>
 <p> If you are interested in learning more about the mental benefits of sports, click <a target="_blank" href="https://www.advancedsportsandspine.com/the-mental-benefits-of-sports/">here</a>!!! </p>
-</html>
